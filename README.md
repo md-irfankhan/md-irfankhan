@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Irfan Khan
 
-<!--
-**md-irfankhan/md-irfankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Web Developer | React Enthusiast
 
-Here are some ideas to get you started:
+🎓 I completed my **SSC** from *Gazipur Shaheen Cadet Academy*  
+🎓 I completed my **HSC** from *Adhyapak Abdul Majid College*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- 💡 HTML5, CSS3, JavaScript (ES6+)
+- ⚛️ React.js
+
+### 🌱 Currently Learning
+- Advanced React Concepts
+- Tailwind CSS
+- Git & GitHub Collaboration
+
+### 📫 Let's Connect!
+- 📧 Email: md.irfankhan.swe@gmail.com
+- 🌐 Portfolio: [your-portfolio-link]
+- 🐦 Twitter: [your-twitter-link]
+- 💼 LinkedIn: [your-linkedin-link]
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! 😊  
+Feel free to check out my repositories and leave a ⭐ if you like them!
+
+
