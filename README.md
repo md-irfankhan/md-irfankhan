@@ -8,11 +8,13 @@
 ### 🚀 Skills
 - 💡 HTML5, CSS3, JavaScript (ES6+)
 - ⚛️ React.js
+- Git & GitHub Collaboration
+- Tailwind CSS
 
 ### 🌱 Currently Learning
 - Advanced React Concepts
-- Tailwind CSS
-- Git & GitHub Collaboration
+
+
 
 ### 📫 Let's Connect!
 - 📧 Email: md.irfankhan.swe@gmail.com
