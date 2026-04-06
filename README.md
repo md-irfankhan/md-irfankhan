@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img alt="md-irfankhan" src="https://media.licdn.com/dms/image/v2/D5603AQGPqUDJmMBoRA/profile-displayphoto-scale_200_200/B56Zp_6WRMI0AY-/0/1763082596217?e=1770249600&v=beta&t=aKLRtEzzplmWMjbLw5BJYmRuz5nqXRMMXSh0fniFhhk" width="180" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 15px rgba(76,175,80,0.5);">
+  <img alt="md-irfankhan" src="[https://media.licdn.com/dms/image/v2/D5603AQGPqUDJmMBoRA/profile-displayphoto-scale_200_200/B56Zp_6WRMI0AY-/0/1763082596217?e=1770249600&v=beta&t=aKLRtEzzplmWMjbLw5BJYmRuz5nqXRMMXSh0fniFhhk](https://github.com/md-irfankhan/md-irfankhan/blob/main/WhatsApp%20Image%202026-03-22%20at%204.12.24%20PM.jpeg?raw=true)" width="180" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 15px rgba(76,175,80,0.5);">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#4CAF50;">Md. Irfan Khan</span> 👋</h1>
