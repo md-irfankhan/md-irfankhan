@@ -28,9 +28,10 @@ I am Md. Irfan Khan, a Computer Science & Engineering student at IUBAT. I enjoy 
 </p>
 
 **Education & Interests:**
+- 🎓 **BSc(Engg.)** in Computer Science & Engineering at **International University of Business Agriculture and Technology**
 - 🎓 SSC — Gazipur Shaheen Cadet Academy  
 - 🎓 HSC — Adhyapak Abdul Majid College  
-- 🎓 CSE Student at IUBAT  
+
 - 💡 Interests: AI, Web Development, Full-Stack Projects
 
 ---
@@ -77,15 +78,17 @@ I am Md. Irfan Khan, a Computer Science & Engineering student at IUBAT. I enjoy 
 ---
 
 ## 📊 GitHub Stats
+![md-irfankhan](https://ghstats.dev/api/card?username=md-irfankhan&theme=tokyonight)
+![md-irfankhan](https://streak-stats.demolab.com/?user=md-irfankhan)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-irfankhan&theme=radical&hide_border=true" width="420">
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=md-irfankhan&theme=radical&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-irfankhan&layout=compact&theme=radical&hide_border=true" width="350">
-</p>
+</p> -->
 
 ---
 
@@ -107,6 +110,3 @@ I am Md. Irfan Khan, a Computer Science & Engineering student at IUBAT. I enjoy 
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=md-irfankhan&icon=5&color=12">
-</p>
